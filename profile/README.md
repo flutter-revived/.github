@@ -31,6 +31,7 @@ Always pin to a specific commit hash rather than a branch — this ensures your 
 | Package | Original | Reason | Status |
 |---|---|---|---|
 | [system_tray](https://github.com/flutter-revived/system_tray) | https://github.com/antler119/system_tray | Abandoned since 2022, no activity | active |
+| [launch_at_startup](https://github.com/flutter-revived/launch_at_startup) | [leanflutter/launch_at_startup](https://github.com/leanflutter/launch_at_startup) | Unmaintained, win32_registry stuck on ^2.0.0 | active |
  
 ## Policy
 - If upstream merges a fix and publishes to pub.dev, we archive our fork and point back.
